@@ -1,0 +1,41 @@
+  html {
+        background-color: #333;
+        color: darkblue;
+        font-family: Menlo;
+    }
+    
+    body {
+        position: fixed;
+        text-align: center;
+        top: 1em;
+        width: 100%;
+        background-color: #333;
+    }
+    
+.container {
+        width: 280px;
+        height: auto; 
+        text-align: center; 
+        display: block; 
+        padding: 5px; 
+        margin: 0 auto;
+}
+    
+.stopwatch{
+  width: auto; 
+  height: auto; 
+  padding: 10px; 
+  font-weight: bold; 
+  font-family: tahoma; 
+  display: block; 
+  border: 1px solid #eee; 
+  text-align: center; 
+  box-shadow: 0 0 5px #ccc; 
+  background: #fbfbf0; 
+  color: darkblue; 
+  border-bottom:4px solid darkgrey;
+}
+    
+    button {
+        color: #333;
+    }
