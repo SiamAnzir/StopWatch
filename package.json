@@ -1,5 +1,5 @@
 {
-    "name": "StopWatch",
+    "name": "stopwatch",
     "version": "1.0.0",
     "description": "Simple StopWatch",
     "main": "index.js",
