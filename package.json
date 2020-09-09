@@ -2,7 +2,7 @@
     "name": "stopwatch",
     "version": "1.0.0",
     "description": "Simple StopWatch",
-    "main": "index.js",
+    "main": "stopWatch.js",
     "scripts": {
         "deploy": "gh-pages -d dist"
     },
